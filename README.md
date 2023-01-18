@@ -19,9 +19,9 @@
  
 ##
 
-- <h3>🔭 No momento estou aprendendo Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" >.</h3>
+- <h3>🔭 No momento estou aprendendo <strong>Dart</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" >.</h3>
 - <h3>🔍 Sede pelo inexplorado.<h3>
 
 ## 
 ## <a>Sistemas Operacionais:<a> 
-<div align="left" ><a href="https://linuxmint.com/"><img  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" width="110"/><a> <img  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="85.8"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="95"><a> </div>
+<div align="left" ><a href="https://linuxmint.com/"><img  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" width="110"/><a> <img  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="85.8"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="95"><a></div>
