@@ -17,9 +17,10 @@
 </div>
 </html>
  
- ##
-- <font color="#0194dd"><h3>🔭 No momento estou aprendendo Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" >.</h3></font>
-- <font color="#0194dd"><h3>🔍 Sede pelo inexplorado.<h3></font>
+##
+
+- <h3>🔭 No momento estou aprendendo Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" >.</h3>
+- <h3>🔍 Sede pelo inexplorado.<h3>
 
 ## 
 ## <a>Sistemas Operacionais:<a> 
