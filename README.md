@@ -17,9 +17,10 @@
 </div>
 </html>
  
+ ##
 - <h3>🔭 No momento estou aprendendo Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" ></h3>
 
 
- ## 
+## 
  
- ## <a>🖥️:<a> <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="22"/><a><a> <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22">
+ <a>🖥️:<a> <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="22"/><a><a> <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22">
