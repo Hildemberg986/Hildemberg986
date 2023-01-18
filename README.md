@@ -18,3 +18,4 @@
 
 ## 
  <h1>🖥️: <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22" ><h1>
+ <!--endcode-->
