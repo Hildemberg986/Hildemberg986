@@ -23,4 +23,4 @@
 
 ## 
 ## <a>Sistemas Operacionais:<a> 
-<div align="center"><a href="https://linuxmint.com/"><img align="center" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="22"/><a><a> <img  align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22"></div>
+<div align="left"><a href="https://linuxmint.com/"><img align="center" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="22"/><a><a> <img  align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22"></div>
