@@ -8,7 +8,7 @@
 <html lang=pt>
 <div>
  <a href= "https://allinks.me/hildemberg986">
-<img align=left src="https://github-readme-stats-hildemberg986.vercel.app/api?username=Hildemberg986&hide=prs,issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=430px&cache_seconds=15&locale=pt-br"/>
+<img align=left src="https://github-readme-stats-hildemberg986.vercel.app/api?username=Hildemberg986&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=430px&cache_seconds=15&locale=pt-br"/>
  </div>
 <div>
  <a href= "https://allinks.me/hildemberg986">
