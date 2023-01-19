@@ -5,14 +5,14 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
  <!DOCTYPE html>
-<html lang=pt-br>
+<html lang=pt>
 <div class="box">
  <a href= "https://allinks.me/hildemberg986">
-<img align=left src="https://github-readme-stats-hildemberg986.vercel.app/api?username=Hildemberg986&hide=prs,issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=400px&cache_seconds=7200"/>
+<img align=left src="https://github-readme-stats-hildemberg986.vercel.app/api?username=Hildemberg986&hide=prs,issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=430px&cache_seconds=7200&locale=pt-br"/>
  </div>
 <div class="box">
  <a href= "https://allinks.me/hildemberg986">
-    <img height=150px src="https://github-readme-stats-hildemberg986.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=270px$langs_count=8&theme=algolia&layout=compact&cache_seconds=7200"/>
+    <img height=150px src="https://github-readme-stats-hildemberg986.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=8&theme=algolia&layout=compact&cache_seconds=7200&locale=pt-br"/>
 
 </div>
 </html>
