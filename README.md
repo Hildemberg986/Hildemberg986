@@ -12,7 +12,7 @@
  </div>
 <div>
  <a href= "https://allinks.me/hildemberg986" target="_blank">
-    <img height=150px src="https://github-readme-stats-evsn-hildemberg986.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=8&theme=algolia&layout=compact&cache_seconds=5&locale=pt-br"/>
+    <img height=150px src="https://github-readme-stats-evsn-hildemberg986.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=8&theme=algolia&layout=compact&cache_seconds=5&locale=pt-br&exclude_repo=github-readme-stats"/>
 
 </div>
 </html>
