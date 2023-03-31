@@ -1,13 +1,13 @@
 <!--https://readme-typing-svg.demolab.com/demo/-->
 
-# <body><a href=""><img align=center src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=50&pause=1000&color=0194DD&center=true&vCenter=true&width=900&height=90&lines=%C3%93la+Mundo...;Meu+Nome+%C3%A9+Hildemberg!!;Sou+Dev+Em+Forma%C3%A7%C3%A3o+%F0%9F%A4%93;Tamb%C3%A9m+Sou+Gamer+Nas+horas+vagas" alt="Typing SVG" /></body>
+# <body><a href="https://allinks.me/hildemberg986"><img align=center src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=50&pause=1000&color=0194DD&center=true&vCenter=true&width=900&height=90&lines=%C3%93la+Mundo...;Meu+Nome+%C3%A9+Hildemberg!!;Sou+Dev+Em+Forma%C3%A7%C3%A3o+%F0%9F%A4%93;Tamb%C3%A9m+Sou+Gamer+Nas+horas+vagas" alt="Typing SVG" /></body>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
  <!DOCTYPE html>
 <html lang=pt>
 <div>
- <a href= "https://allinks.me/hildemberg986">
+ <a href= "https://github.com/Hildemberg986">
 <img align=left src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=430px&cache_seconds=5&locale=pt-br&cache_seconds=300""/>
  </div>
 <div>
@@ -27,8 +27,8 @@
 <div align="left" >
 <a href="https://linuxmint.com/"><img  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" width="110"/></a>
 <a href="https://ubuntu.com/"> <img  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="85.8"><a>
-<a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100"></a>
-<a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="95">
+<a href="https://www.microsoft.com/PT-BR/windows/windows-11?icid=SSM_AS_Windows11"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100"></a>
+<a href="https://developer.android.com/about/versions/13?gclid=Cj0KCQjwiZqhBhCJARIsACHHEH8oDZEp6FquqMzftOyTPyYElD_Z2vTPeyT2f9M_EOyFHwQPyguZ40saAgKDEALw_wcB&gclsrc=aw.ds&hl=pt-br"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="95">
 </div>
  
  ##
