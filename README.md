@@ -7,19 +7,19 @@
 
 
 <div align=center>
-    <h2>
-    <a href="https://linktr.ee/hildemberg986">
-        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=430px&cache_seconds=5&locale=pt-br&cache_seconds=300"/>
+    <h1>
+    <a href="https://allinks.me/hildemberg986">
+        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=430px&locale=pt-br&cache_seconds=60">
     </a>
-    <a href= "https://linktr.ee/hildemberg986">
-        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=8&theme=algolia&layout=compact&cache_seconds=5&locale=pt-br&exclude_repo=github-readme-stats&cache_seconds=300"/>
+    <a href= "https://allinks.me/hildemberg986">
+        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=8&theme=algolia&layout=compact&locale=pt-br&exclude_repo=github-readme-stats&cache_seconds=60"/>
     </a>
-    </h2>
+    </h1>
 </div>
 
 <div style="margin-bottom: -15px">
     <lu>
-        <li>🔭 No momento estou aprendendo <strong>Dart</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" > </li>
+        <li>🔭 No momento estou aprendendo <strong>Dart</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" >.</li>
         <li>🔍 Sede pelo inexplorado.</li>
     </lu>
 </div>
@@ -35,7 +35,7 @@
 </div>
 
 
-<h1 style="padding-bottom: 0px">Linguagens:</h1>
+<h1 style="padding-bottom: -5px">Linguagens:</h1>
 <div aling="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
