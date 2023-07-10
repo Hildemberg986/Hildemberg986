@@ -6,7 +6,7 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
 
-<div>
+<div aling=center>
     <h1>
     <a href="https://allinks.me/hildemberg986">
         <img height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&card_width=430px&locale=pt-br&cache_seconds=120">
