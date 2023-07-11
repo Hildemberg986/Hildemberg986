@@ -17,7 +17,7 @@
     </h1>
 </div>
 
-<div style="margin-bottom: -15px">
+<div >
     <lu>
         <li>🔭 No momento estou aprendendo <strong>Dart</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" >.</li>
         <li>🔍 Sede pelo inexplorado.</li>
@@ -35,8 +35,8 @@
 </div>
 
 
-<h1 style="padding-bottom: -5px">Linguagens:</h1>
-<div aling="left">
+<h1  style="padding-bottom: -5px">Linguagens:</h1>
+<div align = center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>
