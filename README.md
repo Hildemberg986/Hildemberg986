@@ -9,10 +9,10 @@
 <div align = center>
     <h1>
     <a href="https://allinks.me/hildemberg986">
-        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&locale=pt-br&cache_seconds=300">
+        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&hide=issues&include_all_commits=true&show_icons=true&theme=algolia&cache_seconds=300">
     </a>
     <a href= "https://allinks.me/hildemberg986">
-        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=8&theme=algolia&layout=compact&locale=pt-br&exclude_repo=github-readme-stats&cache_seconds=60"/>
+        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=8&theme=algolia&layout=compact&exclude_repo=github-readme-stats&cache_seconds=60"/>
     </a>
     </h1>
 </div>
