@@ -6,13 +6,13 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
 
-<div align = center>
+<div align=center>
     <h1>
     <a href="https://allinks.me/hildemberg986">
-        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&show_icons=true&theme=algolia&show=reviews&locale=pt-br&cache_seconds=300">
+        <img align="center" height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&show_icons=true&theme=algolia&show=reviews&locale=pt-br&cache_seconds=300">
     </a>
     <a href= "https://allinks.me/hildemberg986">
-        <img height=150px src="https://github-readme-stats-evsn.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=300px$langs_count=10&theme=algolia&layout=compact&exclude_repo=github-readme-stats&locale=pt-br&cache_seconds=60"/>
+        <img align="center" height=150px src="https://github-readme-stats-evsn.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&card_width=400px&langs_count=5&theme=algolia&exclude_repo=github-readme-stats&locale=pt-br&cache_seconds=60&layout=compact"/>
     </a>
     </h1>
 </div>
