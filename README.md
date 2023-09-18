@@ -1,7 +1,10 @@
 <!--https://readme-typing-svg.demolab.com/demo/-->
 <div>
 <a href="https://linktr.ee/hilldemberg986"><img align=center src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=50&pause=1000&color=0194DD&center=true&vCenter=true&width=900&height=90&lines=%C3%93la+Mundo...;Meu+Nome+%C3%A9+Hildemberg!!;Sou+Dev+Em+Forma%C3%A7%C3%A3o+%F0%9F%A4%93;Tamb%C3%A9m+Sou+Gamer+Nas+horas+vagas" alt="Typing SVG"/></a>
+    <br>
+    <br>
 </div>
+
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
