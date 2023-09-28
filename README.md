@@ -15,8 +15,7 @@
 
 ##
 
-Sistemas Operacionais:
-======================
+## Sistemas Operacionais:
 
 [![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/) 
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) 
@@ -24,8 +23,8 @@ Sistemas Operacionais:
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/13?gclid=Cj0KCQjwiZqhBhCJARIsACHHEH8oDZEp6FquqMzftOyTPyYElD_Z2vTPeyT2f9M_EOyFHwQPyguZ40saAgKDEALw_wcB&gclsrc=aw.ds&hl=pt-br)
 
 
-Linguagens:
-===========
+## Linguagens:
+
 <div align = center >
     
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
