@@ -4,7 +4,7 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align = center >
     
-[<img align="center" height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&show_icons=true&theme=algolia&show=reviews&locale=pt-br&cache_seconds=300">](https://allinks.me/hildemberg986)
+[<img align="center" height=150px src="https://github-readme-stats-evsn.vercel.app/api?username=Hildemberg986&show_icons=true&theme=algolia&show=reviews&locale=pt-br&cache_seconds=60">](https://allinks.me/hildemberg986)
                              <!-- Trinta caracteres de espaço não quebrado: -->
 [<img align="center" height=300px src="https://github-readme-stats-evsn.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits&langs_count=10&theme=algolia&exclude_repo=github-readme-stats&cache_seconds=60&layout=donut-vertical&locale=pt-br"/>](https://allinks.me/hildemberg986)
 
