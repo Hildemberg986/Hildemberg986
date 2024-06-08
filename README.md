@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/13?gclid=Cj0KCQjwiZqhBhCJARIsACHHEH8oDZEp6FquqMzftOyTPyYElD_Z2vTPeyT2f9M_EOyFHwQPyguZ40saAgKDEALw_wcB&gclsrc=aw.ds&hl=pt-br)
 
 
-## Linguagens:
+## Tecnologias:
 
 <div align = center >
     
@@ -32,9 +32,14 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>](https://www.python.org/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" />](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" />](https://vuejs.org/) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />](https://angular.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="50" />](https://www.djangoproject.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" />](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" />](https://www.postman.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="50" />](https://aws.amazon.com/pt/pm/dynamodb/?gclid=CjwKCAjw34qzBhBmEiwAOUQcF3lyAdiT359Po5B6O2nbIF_Jj5pKLxg_CsTaE7olt9dHpqc2-9mB7RoCZWoQAvD_BwE&trk=3e4c2258-4f21-4854-9de7-2f6da2ef0989&sc_channel=ps&ef_id=CjwKCAjw34qzBhBmEiwAOUQcF3lyAdiT359Po5B6O2nbIF_Jj5pKLxg_CsTaE7olt9dHpqc2-9mB7RoCZWoQAvD_BwE:G:s&s_kwcid=AL!4422!3!589951433441!e!!g!!dynamodb!16393976581!133547551333)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50" />](https://www.django-rest-framework.org/)
           
 
 </div>
