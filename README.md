@@ -41,5 +41,11 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="50" />](https://aws.amazon.com/pt/pm/dynamodb/?gclid=CjwKCAjw34qzBhBmEiwAOUQcF3lyAdiT359Po5B6O2nbIF_Jj5pKLxg_CsTaE7olt9dHpqc2-9mB7RoCZWoQAvD_BwE&trk=3e4c2258-4f21-4854-9de7-2f6da2ef0989&sc_channel=ps&ef_id=CjwKCAjw34qzBhBmEiwAOUQcF3lyAdiT359Po5B6O2nbIF_Jj5pKLxg_CsTaE7olt9dHpqc2-9mB7RoCZWoQAvD_BwE:G:s&s_kwcid=AL!4422!3!589951433441!e!!g!!dynamodb!16393976581!133547551333)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50" />](https://www.django-rest-framework.org/)
           
+## Ouvindo Agora:
 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/hildemberg">
+    <img src="https://novatorem-chi-peach.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
+  </a>
 </div>
