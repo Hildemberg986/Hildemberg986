@@ -6,7 +6,7 @@
     
 [<img align="center" height=150px src="https://git-hub-woad-seven.vercel.app/api?username=Hildemberg986&show_icons=true&theme=algolia&show=reviews&locale=pt-br&cache_seconds=60&include_all_commits=true&custom_title=Status do GitHub de Hildemberg">](https://allinks.me/hildemberg986)
                              <!-- Trinta caracteres de espaço não quebrado: -->
-[<img align="center" height=300px src="https://git-hub-woad-seven.vercel.app/api?username=Hildemberg986&hide=shell,Batchfile&include_all_commits=true&langs_count=10&theme=algolia&exclude_repo=github-readme-stats&cache_seconds=100&layout=donut-vertical&locale=pt-br"/>](https://allinks.me/hildemberg986)
+[<img align="center" height=300px src="https://git-hub-woad-seven.vercel.app/api/top-langs/?username=Hildemberg986&hide=shell,Batchfile&include_all_commits=true&langs_count=10&theme=algolia&exclude_repo=github-readme-stats&cache_seconds=100&layout=donut-vertical&locale=pt-br"/>](https://allinks.me/hildemberg986)
 
 </div>
 
