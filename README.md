@@ -1,7 +1,20 @@
 <!--https://readme-typing-svg.demolab.com/demo/-->
-[![](https://readme-typing-svg.demolab.com?font=Special+Elite&size=50&pause=1000&color=0194DD&center=true&vCenter=true&width=900&height=90&lines=%C3%93la+Mundo...;Meu+Nome+%C3%A9+Hildemberg!!;Sou+Dev+Em+Forma%C3%A7%C3%A3o+%F0%9F%A4%93;Tamb%C3%A9m+Sou+Gamer+Nas+horas+vagas)](https://linktr.ee/hilldemberg986)
-  
-<!--https://github.com/anuraghazra/github-readme-stats-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=45&pause=1000&color=0194DD&center=true&vCenter=true&width=900&height=90&lines=%C3%93la+Mundo...;Meu+Nome+%C3%A9+Hildemberg!!;Sou+Dev+Em+Forma%C3%A7%C3%A3o+%F0%9F%A4%93;Tamb%C3%A9m+Sou+Gamer+Nas+horas+vagas" alt="Typing SVG">
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🔭 No momento estou aprendendo **Dart** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="16" align="center">
+- 🔍 Sede pelo inexplorado.
+- 📫 Como me encontrar: [Linktree](https://linktr.ee/hilldemberg986)
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align = center >
     
 [<img align="center" height=150px src="https://git-hub-woad-seven.vercel.app/api?username=Hildemberg986&show_icons=true&theme=algolia&show=reviews&locale=pt-br&cache_seconds=120&include_all_commits=true&custom_title=Status do GitHub de Hildemberg">](https://allinks.me/hildemberg986)
@@ -10,44 +23,62 @@
 
 </div>
 
-*   🔭 No momento estou aprendendo **Dart** [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="14" >](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg).
-*   🔍 Sede pelo inexplorado.
+---
 
-##
+## 🖥️ Sistemas Operacionais
 
-## Sistemas Operacionais:
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</div>
 
-[![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/) 
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) 
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/PT-BR/windows/windows-11?icid=SSM_AS_Windows11) 
-[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/13?gclid=Cj0KCQjwiZqhBhCJARIsACHHEH8oDZEp6FquqMzftOyTPyYElD_Z2vTPeyT2f9M_EOyFHwQPyguZ40saAgKDEALw_wcB&gclsrc=aw.ds&hl=pt-br)
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
-## Tecnologias:
+<div align="center">
+  
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" title="Vue.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular">
 
-<div align = center >
-    
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />](https://www.typescriptlang.org/) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>](https://www.python.org/) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" />](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" />](https://vuejs.org/) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />](https://angular.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="50" />](https://www.djangoproject.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" />](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" />](https://www.postman.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="50" />](https://aws.amazon.com/pt/pm/dynamodb/?gclid=CjwKCAjw34qzBhBmEiwAOUQcF3lyAdiT359Po5B6O2nbIF_Jj5pKLxg_CsTaE7olt9dHpqc2-9mB7RoCZWoQAvD_BwE&trk=3e4c2258-4f21-4854-9de7-2f6da2ef0989&sc_channel=ps&ef_id=CjwKCAjw34qzBhBmEiwAOUQcF3lyAdiT359Po5B6O2nbIF_Jj5pKLxg_CsTaE7olt9dHpqc2-9mB7RoCZWoQAvD_BwE:G:s&s_kwcid=AL!4422!3!589951433441!e!!g!!dynamodb!16393976581!133547551333)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50" />](https://www.django-rest-framework.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="50" />](https://www.jenkins.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="50" />](https://kubernetes.io/pt-br/)
-          
-## Ouvindo Agora:
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="45" title="Django">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="45" title="Django REST">
 
+### Banco de Dados & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="45" title="DynamoDB">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" title="Postman">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" title="Jenkins">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="45" title="Kubernetes">
+
+</div>
+
+---
+
+## 🎧 Ouvindo Agora
 
 <div align="center">
   <a href="https://open.spotify.com/user/hildemberg">
-    <img src="https://novatorem-chi-peach.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
+    <img src="https://novatorem-chi-peach.vercel.app/api/spotify?background_color=0d1117&border_color=00FF00&border_radius=10" alt="Spotify Now Playing">
   </a>
+</div>
+
+---
+
+<div align="center">
+  
+  *“A jornada é longa, mas cada linha de código me aproxima do destino.”*
+
+  <img src="https://komarev.com/ghpvc/?username=Hildemberg986&color=0194DD&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views">
+  
 </div>
